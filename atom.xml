@@ -3,11 +3,11 @@
   <title>袁承的博客</title>
   
   <subtitle>心中有梦 不负韶华</subtitle>
-  <link href="https://ycdbk.github.io/atom.xml" rel="self"/>
+  <link href="https://yuancheng.ltd/atom.xml" rel="self"/>
   
-  <link href="https://ycdbk.github.io/"/>
+  <link href="https://yuancheng.ltd/"/>
   <updated>2021-11-29T14:04:40.318Z</updated>
-  <id>https://ycdbk.github.io/</id>
+  <id>https://yuancheng.ltd/</id>
   
   <author>
     <name>Dr. Cheng Yuan</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>代码</title>
-    <link href="https://ycdbk.github.io/posts/2.html"/>
-    <id>https://ycdbk.github.io/posts/2.html</id>
+    <link href="https://yuancheng.ltd/posts/2.html"/>
+    <id>https://yuancheng.ltd/posts/2.html</id>
     <published>2021-11-29T12:05:14.000Z</published>
     <updated>2021-11-29T14:04:40.318Z</updated>
     
@@ -28,21 +28,21 @@
     
     
     
-    <category term="学习" scheme="https://ycdbk.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://yuancheng.ltd/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="hexo" scheme="https://ycdbk.github.io/tags/hexo/"/>
+    <category term="hexo" scheme="https://yuancheng.ltd/tags/hexo/"/>
     
-    <category term="学术" scheme="https://ycdbk.github.io/tags/%E5%AD%A6%E6%9C%AF/"/>
+    <category term="学术" scheme="https://yuancheng.ltd/tags/%E5%AD%A6%E6%9C%AF/"/>
     
-    <category term="学习" scheme="https://ycdbk.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://yuancheng.ltd/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
   <entry>
     <title></title>
-    <link href="https://ycdbk.github.io/posts/hello.html"/>
-    <id>https://ycdbk.github.io/posts/hello.html</id>
+    <link href="https://yuancheng.ltd/posts/hello.html"/>
+    <id>https://yuancheng.ltd/posts/hello.html</id>
     <published>2021-11-24T08:12:19.198Z</published>
     <updated>2021-11-29T11:50:36.988Z</updated>
     
@@ -51,16 +51,16 @@
     
     
     
-    <category term="心得" scheme="https://ycdbk.github.io/categories/%E5%BF%83%E5%BE%97/"/>
+    <category term="心得" scheme="https://yuancheng.ltd/categories/%E5%BF%83%E5%BE%97/"/>
     
     
-    <category term="hexo" scheme="https://ycdbk.github.io/tags/hexo/"/>
+    <category term="hexo" scheme="https://yuancheng.ltd/tags/hexo/"/>
     
-    <category term="学术" scheme="https://ycdbk.github.io/tags/%E5%AD%A6%E6%9C%AF/"/>
+    <category term="学术" scheme="https://yuancheng.ltd/tags/%E5%AD%A6%E6%9C%AF/"/>
     
-    <category term="模拟" scheme="https://ycdbk.github.io/tags/%E6%A8%A1%E6%8B%9F/"/>
+    <category term="模拟" scheme="https://yuancheng.ltd/tags/%E6%A8%A1%E6%8B%9F/"/>
     
-    <category term="计划" scheme="https://ycdbk.github.io/tags/%E8%AE%A1%E5%88%92/"/>
+    <category term="计划" scheme="https://yuancheng.ltd/tags/%E8%AE%A1%E5%88%92/"/>
     
   </entry>
   
