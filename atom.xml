@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>袁承的博客</title>
+  
+  <subtitle>心中有梦 不负韶华</subtitle>
+  <link href="https://ycdbk.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://ycdbk.github.io/"/>
+  <updated>2021-11-29T05:30:01.659Z</updated>
+  <id>https://ycdbk.github.io/</id>
+  
+  <author>
+    <name>Dr. Cheng Yuan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://ycdbk.github.io/posts/hello.html"/>
+    <id>https://ycdbk.github.io/posts/hello.html</id>
+    <published>2021-11-24T08:12:19.198Z</published>
+    <updated>2021-11-29T05:30:01.659Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
